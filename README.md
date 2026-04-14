@@ -18,4 +18,4 @@ This project provides a comprehensive analysis of wind speed data, calculates ca
 2. Run the analysis: `python main.py`
 
 ## Developer
-* **[Senin Adın]** - Engineering Student at Istanbul Technical University (ITU)
+* **Diren Gürgül** - Engineering Student at Istanbul Technical University (ITU)
